@@ -135,7 +135,7 @@ h1 {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     color:#fff;
-	direction:rtl;
+    direction:rtl;
 }
 h2 {
     font-size:2.5rem;
@@ -373,7 +373,6 @@ Button
     background-color: #639d2f;
     border-color: #fff;
     transition: .5s;
-	
 }
 
 .btn_news_color{
@@ -617,6 +616,7 @@ input::-ms-input-placeholder {
     color: #fff;
     padding-bottom: 25px;
     width: 85%;
+    direction: rtl;
 }
 .home .main_home p.subtitle{
     color: #5e9a28;
@@ -625,7 +625,7 @@ input::-ms-input-placeholder {
     font-weight: 500;
     font-size:2.5rem;
     text-transform: uppercase;
-	float:right;
+    direction: rtl;
 }
 
 .home .main_home .video_play_icon a{
@@ -655,11 +655,11 @@ input::-ms-input-placeholder {
 }
 .owl-theme .owl-dots .owl-dot span {
     background: #639d2f;
-}
+   }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
     background: #f5c239;
-}
+ }
 
 
 
@@ -766,6 +766,7 @@ input::-ms-input-placeholder {
     background-color: transparent;
     transition: .5s;
     color: #223d61;
+ 
 }
 .main_mix_menu ul li.active {
     background: #5e9a28;

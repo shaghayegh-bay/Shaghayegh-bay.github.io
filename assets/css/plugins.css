@@ -274,6 +274,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 .owl-theme .owl-dots {
   text-align: center;
   -webkit-tap-highlight-color: transparent;
+  direction:rtl;
 }
 .owl-theme .owl-dots .owl-dot {
   display: inline-block;
